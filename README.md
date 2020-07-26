@@ -16,6 +16,8 @@
 <img style="vertical-align: middle;" alt="Git" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/git-scm-icon.svg" height=28>&ensp;
 
 ### Status
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="madeindra's github status" src="https://github-readme-stats.vercel.app/api?username=madeindra&show_icons=true&hide_title=true&hide_rank=true&hide_border=true">
-</a>
+* Commits done : <img alt="commits" src="https://github-readme-stats-3r8xcg53f.vercel.app/api/individual?username=madeindra&show=commits">
+* Stars achieved : <img alt="stars" src="https://github-readme-stats-3r8xcg53f.vercel.app/api/individual?username=madeindra&show=stars">
+* PRs completed : <img alt="prs" src="https://github-readme-stats-3r8xcg53f.vercel.app/api/individual?username=madeindra&show=prs">
+* Issues found : <img alt="issues" src="https://github-readme-stats-3r8xcg53f.vercel.app/api/individual?username=madeindra&show=issues">
+* Contribution : <img alt="contribs" src="https://github-readme-stats-3r8xcg53f.vercel.app/api/individual?username=madeindra&show=contribs">
