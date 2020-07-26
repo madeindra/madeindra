@@ -5,9 +5,9 @@
 **Class** Backend
 
 ### Skills
-<img alt="PHP" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/php-icon.svg" height=32>&ensp;
-<img alt="Go" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/golang-icon.svg" height=32>&ensp;
-<img alt="Dart" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/dartlang-icon.svg" height=24>&ensp;
+<img alt="PHP" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/php-icon.svg" width=36>&ensp;
+<img alt="Go" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/golang-icon.svg" width=40>&ensp;
+<img alt="Dart" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/dartlang-icon.svg" width=22>&ensp;
 
 
 ### Equipments
