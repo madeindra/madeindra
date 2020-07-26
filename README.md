@@ -5,14 +5,14 @@
 **Class :** Backend
 
 ### Skills
-![PHP](assets/php-icon.svg)
-![Go](assets/golang-icon.svg)
-![Dart](assets/dartlang-icon.svg)
+![PHP](assets/php-icon.svg)&ensp;
+![Go](assets/golang-icon.svg)&ensp;
+![Dart](assets/dartlang-icon.svg)&ensp;
 
 ### Equipments
-![Mac](assets/apple-icon.svg)
-![VSCode](assets/visualstudio_code-icon.svg)
-![Git](assets/git-scm-icon.svg)
+![Mac](assets/apple-icon.svg)&ensp;
+![VSCode](assets/visualstudio_code-icon.svg)&ensp;
+![Git](assets/git-scm-icon.svg)&ensp;
 
 
 ### Status
