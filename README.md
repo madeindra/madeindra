@@ -5,15 +5,15 @@
 **Class** Backend
 
 ### Skills
-<img alt="PHP" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/php-icon.svg" width=36>&ensp;
-<img alt="Go" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/golang-icon.svg" width=40>&ensp;
-<img alt="Dart" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/dartlang-icon.svg" width=22>&ensp;
+<img style="vertical-align: middle;" alt="PHP" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/php-icon.svg" width=38>&ensp;
+<img style="vertical-align: middle;" alt="Go" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/golang-icon.svg" width=40>&ensp;
+<img style="vertical-align: middle;" alt="Dart" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/dartlang-icon.svg" width=24>&ensp;
 
 
 ### Equipments
-<img alt="Mac" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/apple-icon.svg" height=30>&ensp;
-<img alt="VSCode" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/visualstudio_code-icon.svg" height=28>&ensp;
-<img alt="Git" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/git-scm-icon.svg" height=26>&ensp;
+<img style="vertical-align: middle;" alt="Mac" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/apple-icon.svg" height=28>&ensp;
+<img style="vertical-align: middle;" alt="VSCode" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/visualstudio_code-icon.svg" height=28>&ensp;
+<img style="vertical-align: middle;" alt="Git" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/git-scm-icon.svg" height=28>&ensp;
 
 ### Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
