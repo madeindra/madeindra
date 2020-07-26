@@ -5,14 +5,14 @@
 **Class :** Backend
 
 ### Skills
-![PHP](assets/php-icon.svg)&ensp;
-![Go](assets/golang-icon.svg)&ensp;
-![Dart](assets/dartlang-icon.svg)&ensp;
+![PHP](https://raw.githubusercontent.com/madeindra/madeindra/master/assets/php-icon.svg)&ensp;
+![Go](https://raw.githubusercontent.com/madeindra/madeindra/master/assets/golang-icon.svg)&ensp;
+![Dart](https://raw.githubusercontent.com/madeindra/madeindra/master/assets/dartlang-icon.svg)&ensp;
 
 ### Equipments
-![Mac](assets/apple-icon.svg)&ensp;
-![VSCode](assets/visualstudio_code-icon.svg)&ensp;
-![Git](assets/git-scm-icon.svg)&ensp;
+![Mac](https://raw.githubusercontent.com/madeindra/madeindra/master/assets/apple-icon.svg)&ensp;
+![VSCode](https://raw.githubusercontent.com/madeindra/madeindra/master/assets/visualstudio_code-icon.svg)&ensp;
+![Git](https://raw.githubusercontent.com/madeindra/madeindra/master/assets/git-scm-icon.svg)&ensp;
 
 
 ### Status
