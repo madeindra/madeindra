@@ -16,8 +16,13 @@
 <img style="vertical-align: middle;" alt="Git" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/git-scm-icon.svg" height=28>&ensp;
 
 ### Status
-* Commits done : <img alt="commits" src="https://github-readme-stats-glqiubth0.vercel.app/api/individual?username=madeindra&show=commits">
-* Stars achieved : <img alt="stars" src="https://github-readme-stats-glqiubth0.vercel.app/api/individual?username=madeindra&show=stars">
-* PRs completed : <img alt="prs" src="https://github-readme-stats-glqiubth0.vercel.app/api/individual?username=madeindra&show=prs">
-* Issues found : <img alt="issues" src="https://github-readme-stats-glqiubth0.vercel.app/api/individual?username=madeindra&show=issues">
-* Contribution : <img alt="contribs" src="https://github-readme-stats-glqiubth0.vercel.app/api/individual?username=madeindra&show=contribs">
+🔄&ensp;Commits done : <img alt="commits" src="https://github-readme-stats-glqiubth0.vercel.app/api/individual?username=madeindra&show=commits">
+
+⭐&ensp;Stars achieved : <img alt="stars" src="https://github-readme-stats-glqiubth0.vercel.app/api/individual?username=madeindra&show=stars">
+
+⚙️&ensp;PRs completed : <img alt="prs" src="https://github-readme-stats-glqiubth0.vercel.app/api/individual?username=madeindra&show=prs">
+
+⚠️&ensp;Issues found : <img alt="issues" src="https://github-readme-stats-glqiubth0.vercel.app/api/individual?username=madeindra&show=issues">
+
+🔖&ensp;Contribution : <img alt="contribs" src="https://github-readme-stats-glqiubth0.vercel.app/api/individual?username=madeindra&show=contribs">
+
