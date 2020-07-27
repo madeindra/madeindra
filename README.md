@@ -14,6 +14,8 @@
 <img style="vertical-align: middle;" alt="Mac" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/apple-icon.svg" height=28>&ensp;
 <img style="vertical-align: middle;" alt="VSCode" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/visualstudio_code-icon.svg" height=28>&ensp;
 <img style="vertical-align: middle;" alt="Git" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/git-scm-icon.svg" height=28>&ensp;
+<img style="vertical-align: middle;" alt="Docker" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/docker-icon.svg" height=32>&ensp;
+<img style="vertical-align: middle;" alt="Postman" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/postman-icon.svg" height=28>&ensp;
 
 ### Status
 :arrows_counterclockwise: &ensp;Commits done : <img alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=commits">
