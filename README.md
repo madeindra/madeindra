@@ -6,7 +6,7 @@
 
 ### Skills
 <img style="vertical-align: middle;" alt="Go" src="./assets/golang-icon.svg" width=40>&ensp;
-<img style="vertical-align: middle;" alt="Javascript" src="./assets/javascript-icon.svg" width=25>&ensp;
+<img style="vertical-align: middle;" alt="Javascript" src="./assets/javascript-icon.svg" width=23>&ensp;
 <img style="vertical-align: middle;" alt="PHP" src="./assets/php-icon.svg" width=38>&ensp;
 <img style="vertical-align: middle;" alt="Dart" src="./assets/dartlang-icon.svg" width=24>&ensp;
 
