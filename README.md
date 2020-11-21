@@ -1,14 +1,14 @@
 ## Character Status
 
-**Level 1** Software Developer
+**Level 2** Software Developer
 
-**Class** Backend
+**Class** Fullstack
 
 ### Skills
-<img style="vertical-align: middle;" alt="PHP" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/php-icon.svg" width=38>&ensp;
 <img style="vertical-align: middle;" alt="Go" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/golang-icon.svg" width=40>&ensp;
+<img style="vertical-align: middle;" alt="Javascript" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/js-icon.svg" width=22>&ensp;
+<img style="vertical-align: middle;" alt="PHP" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/php-icon.svg" width=38>&ensp;
 <img style="vertical-align: middle;" alt="Dart" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/dartlang-icon.svg" width=24>&ensp;
-
 
 ### Equipments
 <img style="vertical-align: middle;" alt="Mac" src="https://raw.githubusercontent.com/madeindra/madeindra/master/assets/apple-icon.svg" height=28>&ensp;
