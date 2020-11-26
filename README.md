@@ -1,8 +1,8 @@
 ## Character Status
 
-### **Level 2** Software Developer
+**Level 2** Software Developer
 
-### **Class** Fullstack
+**Class**: Fullstack
 
 ### Skills
 <img style="vertical-align: middle;" alt="Go" src="./assets/golang-icon.svg" width=40>&ensp;
