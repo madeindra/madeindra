@@ -18,13 +18,13 @@
 <img style="vertical-align: middle;" alt="Postman" src="./assets/postman-icon.svg" height=28>&ensp;
 
 ### Status
-:arrows_counterclockwise: &ensp;Commits done : <img alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=commits">
+:arrows_counterclockwise: &ensp;Commits done : <img alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=commits&count_private=true">
 
-:star:&ensp;Stars achieved : <img alt="stars" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=stars">
+:star:&ensp;Stars achieved : <img alt="stars" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=stars&count_private=true">
 
-:hammer_and_wrench:&ensp;PRs completed : <img alt="prs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=prs">
+:hammer_and_wrench:&ensp;PRs completed : <img alt="prs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=prs&count_private=true">
 
-:interrobang:&ensp;Issues found : <img alt="issues" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=issues">
+:interrobang:&ensp;Issues found : <img alt="issues" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=issues&count_private=true">
 
-:books:&ensp;Contribution : <img alt="contribs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=contribs">
+:books:&ensp;Contribution : <img alt="contribs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=contribs&count_private=true">
 
