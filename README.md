@@ -27,6 +27,3 @@
 :interrobang:&ensp;Issues found : <img alt="issues" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=issues&count_private=true&theme=dark">
 
 :books:&ensp;Contribution : <img alt="contribs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=contribs&count_private=true&theme=dark">
-
-### Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=madeindra&theme=onedark&no-bg=true&no-frame=true)](#)
