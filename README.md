@@ -5,9 +5,9 @@
 **Class**: Fullstack
 
 ### Skills
-<a href="https://golang.org/"><img style="vertical-align: middle;" alt="Go" src="./assets/golang-icon.svg" width=40></a>&ensp;
 <a href="https://www.javascript.com/"><img style="vertical-align: middle;" alt="Javascript" src="./assets/javascript-icon.svg" width=23></a>&ensp;
 <a href="https://dart.dev/"><img style="vertical-align: middle;" alt="Dart" src="./assets/dartlang-icon.svg" width=24></a>&ensp;
+<a href="https://golang.org/"><img style="vertical-align: middle;" alt="Go" src="./assets/golang-icon.svg" width=40></a>&ensp;
 <a href="https://www.php.net/"><img style="vertical-align: middle;" alt="PHP" src="./assets/php-icon.svg" width=38></a>&ensp;
 
 ### Equipments
