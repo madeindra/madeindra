@@ -1,6 +1,6 @@
 ## Character Status
 
-**Level 4** Software Developer
+**Level 3** Software Developer
 
 **Class**: Fullstack
 
