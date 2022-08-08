@@ -1,6 +1,8 @@
 ## About Me
 
-3+ years of experiences Software Developer who enjoy working on Backend.
+Software Developer with 3+ years of experiences.
+
+I enjoy working on Backend with Javascript, Go, MongoDB, and PostgreSQL.
 
 ### Languages
 <a href="https://www.javascript.com/"><img style="vertical-align: middle;" alt="Javascript" src="./assets/javascript-icon.svg" width=23></a>&ensp;
