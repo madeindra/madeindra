@@ -1,6 +1,6 @@
 ## About Me
 
-Software Developer with 3+ years of experience.
+Software Developer with 4+ years of experience.
 
 I enjoy working on the Backend with Javascript, Go, MongoDB, and PostgreSQL.
 
@@ -10,7 +10,7 @@ I enjoy working on the Backend with Javascript, Go, MongoDB, and PostgreSQL.
 
 ### Databases
 <a href="https://mongodb.com/"><img style="vertical-align: middle;" alt="MongoDB" src="./assets/mongodb-icon.svg" height=28></a>&ensp;
-<a href="hhttps://www.postgresql.org/"><img style="vertical-align: middle;" alt="PostgreSQL" src="./assets/pgsql-icon.svg" height=28></a>&ensp;
+<a href="https://www.postgresql.org/"><img style="vertical-align: middle;" alt="PostgreSQL" src="./assets/pgsql-icon.svg" height=28></a>&ensp;
 <a href="https://redis.io/"><img style="vertical-align: middle;" alt="Redis" src="./assets/redis-icon.svg" height=28></a>&ensp;
 
 ### Technologies
@@ -20,7 +20,6 @@ I enjoy working on the Backend with Javascript, Go, MongoDB, and PostgreSQL.
 <a href="https://www.nginx.com/"><img style="vertical-align: middle;" alt="NginX" src="./assets/nginx-icon.svg" height=28></a>&ensp;
 <a href="https://kafka.apache.org/"><img style="vertical-align: middle;" alt="Kafka" src="./assets/kafka-icon.svg" height=28></a>&ensp;
 <a href="https://www.rabbitmq.com/"><img style="vertical-align: middle;" alt="RabbitMQ" src="./assets/rabbitmq-icon.svg" height=28></a>&ensp;
-<a href="https://www.postman.com/"><img style="vertical-align: middle;" alt="Postman" src="./assets/postman-icon.svg" height=28></a>&ensp;
 
 ### Git Status
 :arrows_counterclockwise: &ensp;Commits : <img alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=commits&count_private=true&theme=dark">
