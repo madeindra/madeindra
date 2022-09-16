@@ -2,15 +2,15 @@
 
 Software Developer with 4+ years of experience.
 
-I enjoy working on the Backend with Javascript, Go, MongoDB, and PostgreSQL.
+I enjoy working on the Backend with Go (Golang), Node.js (Javascript), PostgreSQL, and MongoDB.
 
 ### Languages
-<a href="https://www.javascript.com/"><img style="vertical-align: middle;" alt="Javascript" src="./assets/javascript-icon.svg" width=23></a>&ensp;
 <a href="https://golang.org/"><img style="vertical-align: middle;" alt="Go" src="./assets/golang-icon.svg" width=40></a>&ensp;
+<a href="https://www.javascript.com/"><img style="vertical-align: middle;" alt="Javascript" src="./assets/javascript-icon.svg" width=23></a>&ensp;
 
 ### Databases
-<a href="https://mongodb.com/"><img style="vertical-align: middle;" alt="MongoDB" src="./assets/mongodb-icon.svg" height=28></a>&ensp;
 <a href="https://www.postgresql.org/"><img style="vertical-align: middle;" alt="PostgreSQL" src="./assets/pgsql-icon.svg" height=28></a>&ensp;
+<a href="https://mongodb.com/"><img style="vertical-align: middle;" alt="MongoDB" src="./assets/mongodb-icon.svg" height=28></a>&ensp;
 <a href="https://redis.io/"><img style="vertical-align: middle;" alt="Redis" src="./assets/redis-icon.svg" height=28></a>&ensp;
 
 ### Technologies
