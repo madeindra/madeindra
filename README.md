@@ -31,3 +31,9 @@ I enjoy working on the Backend with Go (Golang), Node.js (Javascript), PostgreSQ
 :interrobang:&ensp;Issues : <img alt="issues" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=issues&count_private=true&theme=dark">
 
 :books:&ensp;Contributions : <img alt="contribs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=contribs&count_private=true&theme=dark">
+
+### Contact
+
+Got a remote job opportunity? Connect with me on <a href="https://www.linkedin.com/in/mdeindra/">LinkedIn<a/>
+
+Need mentoring, interview preparation or resume review? Book me a session with me on <a href="https://adplist.org/mentors/made-indra">ADPlist<a/>
