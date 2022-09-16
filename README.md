@@ -36,4 +36,4 @@ I enjoy working on the Backend with Go (Golang), Node.js (Javascript), PostgreSQ
 
 Got a remote job opportunity? Connect with me on <a href="https://www.linkedin.com/in/mdeindra/">LinkedIn<a/>
 
-Need mentoring, interview preparation or resume review? Book me a session with me on <a href="https://adplist.org/mentors/made-indra">ADPlist<a/>
+Need mentoring, interview preparation, or resume review? Book a session with me on <a href="https://adplist.org/mentors/made-indra">ADPlist<a/>
