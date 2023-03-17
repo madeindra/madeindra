@@ -1,6 +1,6 @@
 ## About Me
 
-Software Developer with 4+ years of experience.
+Software Developer with 5 years of experience.
 
 I enjoy working on the Backend with Go (Golang), Node.js (Javascript), PostgreSQL, and MongoDB.
 
@@ -32,7 +32,7 @@ I enjoy working on the Backend with Go (Golang), Node.js (Javascript), PostgreSQ
 
 :books:&ensp;Contributions : <img alt="contribs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=contribs&count_private=true&theme=dark">
 
-### Contact
+### Contacts
 
 Got a remote job opportunity? Connect with me on <a href="https://www.linkedin.com/in/mdeindra/">LinkedIn<a/>
 
