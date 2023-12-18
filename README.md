@@ -22,15 +22,15 @@ I enjoy working on the Backend with Go (Golang), Node.js (Javascript), PostgreSQ
 <a href="https://www.rabbitmq.com/"><img style="vertical-align: middle;" alt="RabbitMQ" src="./assets/rabbitmq-icon.svg" height=28></a>&ensp;
 
 ### Git Status
-:arrows_counterclockwise: &ensp;Commits : <img alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=commits&count_private=true&theme=dark">
+Commits : <img alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=commits&count_private=true&theme=dark">
 
-:star:&ensp;Stars : <img alt="stars" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=stars&count_private=true&theme=dark">
+Stars : <img alt="stars" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=stars&count_private=true&theme=dark">
 
-:hammer_and_wrench:&ensp;Pull Requests : <img alt="prs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=prs&count_private=true&theme=dark">
+Pull Requests : <img alt="prs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=prs&count_private=true&theme=dark">
 
-:interrobang:&ensp;Issues : <img alt="issues" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=issues&count_private=true&theme=dark">
+Issues : <img alt="issues" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=issues&count_private=true&theme=dark">
 
-:books:&ensp;Contributions : <img alt="contribs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=contribs&count_private=true&theme=dark">
+Contributions : <img alt="contribs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=contribs&count_private=true&theme=dark">
 
 ### Contacts
 
