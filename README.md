@@ -34,7 +34,3 @@ Pull Requests : <img title="prs" alt="prs" src="https://github-readme-stats-indi
 Issues : <img title="issues" alt="issues" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=issues&count_private=true&theme=dark">
 
 Contributions : <img title="contribs" alt="contribs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=contribs&count_private=true&theme=dark">
-
-### Contacts
-
-Connect with me on <a href="https://www.linkedin.com/in/mdeindra/">LinkedIn<a/>.
