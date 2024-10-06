@@ -22,15 +22,3 @@ Most of the time I work with Go (Golang) and Node.js (Javascript, Typescript).
 <a href="https://nodejs.org/"><img style="vertical-align: middle;" title="NodeJS" alt="NodeJS" src="./assets/nodejs-icon.svg" height=28></a>&ensp;
 <a href="https://nginx.com/"><img style="vertical-align: middle;" title="NginX" alt="NginX" src="./assets/nginx-icon.svg" height=28></a>&ensp;
 <a href="https://kafka.apache.org/"><img style="vertical-align: middle;" title="Kafka" alt="Kafka" src="./assets/kafka-icon.svg" height=28></a>&ensp;
-
-
-### Git Status
-Commits : <img title="commits" alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=commits&count_private=true&theme=dark">
-
-Stars : <img title="stars" alt="stars" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=stars&count_private=true&theme=dark">
-
-Pull Requests : <img title="prs" alt="prs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=prs&count_private=true&theme=dark">
-
-Issues : <img title="issues" alt="issues" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=issues&count_private=true&theme=dark">
-
-Contributions : <img title="contribs" alt="contribs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=contribs&count_private=true&theme=dark">
