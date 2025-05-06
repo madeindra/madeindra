@@ -1,8 +1,8 @@
 ## About Me
 
-Software Developer with 6 years of experience.
+Let's just say that I have some experience in the Software Engineering field.
 
-Most of the time I work with Go (Golang) and Node.js (Javascript, Typescript).
+Most of the time with Go (Golang), and the other time with Node.js (JavaScript, TypeScript).
 
 ### Languages
 <a href="https://golang.org/"><img style="vertical-align: middle;" title="Go (Golang)" alt="Go (Golang)" src="./assets/golang-icon.svg" width=40></a>&ensp;
